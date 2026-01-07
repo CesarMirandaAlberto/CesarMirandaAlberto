@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🌱 ⚡Dentro de las habilidades en lo antes mencionado se encuentran:<br>- Manejo de lenguajes HDL: Verilog, SystemVerilog, VHDL.<br>- Verificacion: Manejo de la metodologia UVM y testbench en los lenguajes HDL mencionados.<br>- Programación:  C, C++, Matlab.<br><br>-- Algunos Proyectos Realizados --<br>- Sistemas digitales:<br> * ALU 4 bits<br> * Calculadora completa con la ALU implementando exhibidores 7 segmentos.<br>* Maquinas de estados.<br>* Relojes con alarma utilizando contadores.<br>
+<p align="left">🌱 ⚡Dentro de las habilidades en lo antes mencionado se encuentran:<br>- Manejo de lenguajes HDL: Verilog, SystemVerilog, VHDL.<br>- Verificacion: testbench en los lenguajes HDL mencionados.<br>- Programación:  C, C++, Matlab.<br><br>-- Algunos Proyectos Realizados --<br>- Sistemas digitales:<br> * ALU 4 bits<br> * Calculadora completa con la ALU implementando exhibidores 7 segmentos.<br>* Maquinas de estados.<br>* Relojes con alarma utilizando contadores.<br>
 <br><br>-Programación:<br>Programación Modular<br>C: Conocimiento básico, Manejo de punteros, Archivos, Gestión de Memoria, Árbol de recurrencia.<br>C++: Básico<br>Python: Básico.<br>Matlab: Filtros, Graficas.</p>
 
 ###

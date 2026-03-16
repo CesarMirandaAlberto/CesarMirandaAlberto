@@ -19,3 +19,7 @@ Ejemplos de proyectos:
 - Calculadora basada en ALU personalizada con pantalla de 7 segmentos
 - Diseños basados ​​en FSM
 - Sistema de reloj y alarma con contadores
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=CesarMirandaAlberto.CesarMirandaAlberto&"  />
+</div>
